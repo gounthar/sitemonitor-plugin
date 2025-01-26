@@ -1,6 +1,5 @@
 package hudson.plugins.sitemonitor;
 
-import hudson.plugins.sitemonitor.SiteMonitorRecorder;
 import hudson.plugins.sitemonitor.model.Site;
 
 import java.util.ArrayList;

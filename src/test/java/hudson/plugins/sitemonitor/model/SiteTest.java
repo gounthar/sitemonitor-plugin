@@ -1,6 +1,5 @@
 package hudson.plugins.sitemonitor.model;
 
-import hudson.plugins.sitemonitor.model.Site;
 import junit.framework.TestCase;
 
 public class SiteTest extends TestCase {

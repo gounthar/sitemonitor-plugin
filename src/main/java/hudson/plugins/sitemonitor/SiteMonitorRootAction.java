@@ -22,7 +22,6 @@
 package hudson.plugins.sitemonitor;
 
 import hudson.model.RootAction;
-import hudson.plugins.sitemonitor.Messages;
 import hudson.plugins.sitemonitor.model.Result;
 
 import java.util.List;

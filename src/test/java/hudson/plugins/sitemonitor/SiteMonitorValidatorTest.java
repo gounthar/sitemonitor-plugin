@@ -1,6 +1,5 @@
 package hudson.plugins.sitemonitor;
 
-import hudson.plugins.sitemonitor.SiteMonitorValidator;
 import hudson.util.FormValidation;
 import junit.framework.TestCase;
 
